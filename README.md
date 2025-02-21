@@ -18,11 +18,11 @@ Historical Timeline Chatbots is intended to provide users with detailed answers 
 Execute the following command:
 ```bash
 pip install boltiotai
-
+```
 Add the following line in your code:
-```bash
+```python
 from boltiotai import openai
-
+```
 # Dataset Preprocessing
 
 The chatbot drops unnecessary columns (e.g., Sl. No).
