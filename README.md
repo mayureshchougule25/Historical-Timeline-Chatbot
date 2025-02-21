@@ -15,10 +15,12 @@ Historical Timeline Chatbots is intended to provide users with detailed answers 
 4.Interactive Chat Interface: Allows users to interact with the chatbot in a conversational manner.
 
 # Install Bolt IoT Library
-Execute the following command :
+Execute the following command:
+```bash
 pip install boltiotai
 
 Add the following line in your code:
+```bash
 from boltiotai import openai
 
 # Dataset Preprocessing
